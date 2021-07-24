@@ -19,7 +19,7 @@ jobs:
         with:
           working-directory: web
       - name: Component & API & UI Tests
-        uses: cypress-io/github-actions@v2
+        uses: cypress-io/github-action@v2
         with:
           working-directory: web
           install: false
