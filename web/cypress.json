@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://localhost:3000/",
+  "apiUrl": "http://localhost:3333/",
+  "experimentalComponentTesting": true,
+  "componentFolder": "cypress/component",
+  "projectId": "s84th1"
+}
